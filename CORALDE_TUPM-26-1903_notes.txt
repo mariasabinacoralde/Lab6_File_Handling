@@ -1,0 +1,5 @@
+Student: CORALDE
+Student ID: TUPM-26-1903
+Seed digit: 3
+ID sum: 21
+Verification value: 150

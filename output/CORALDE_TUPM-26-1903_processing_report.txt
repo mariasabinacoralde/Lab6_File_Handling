@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: CORALDE
+Student ID: TUPM-26-1903
+Seed Digit: 3
+ID Sum: 21
+Verification Value: 150
+Dataset Sample Size: 71
+Valid Records: 71
+Average Global Active Power: 4.015
+JSON File: CORALDE_TUPM-26-1903_record.json
+Backup File: CORALDE_TUPM-26-1903_record.csv
